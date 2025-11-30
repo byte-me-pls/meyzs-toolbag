@@ -159,5 +159,5 @@ license (MIT).
 
 ## 👤 Author
 
-Developed by **byte-me-pls (meyzs)**.
+Developed by **byte-me-pls (meyz)**.
 Focused on editor tooling, automation, and workflow optimization in Unity.
