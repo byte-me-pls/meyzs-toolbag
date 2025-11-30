@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029c7eb75cf3412daf77f2b6090e3ef3, type: 3}
+  m_Name: CircularDataHolder
+  m_EditorClassIdentifier: 
+  count: 6
+  radius: 10.086445
+  center: {x: 112.16588, y: 5.09, z: 109.103226}
+  startAngle: 0
+  endAngle: 360
+  faceCenter: 1
