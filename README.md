@@ -1,7 +1,5 @@
 # Meyz's Toolbag
 
-> **This file is the official `README.md` of the project.**
-
 **Meyz’s Toolbag** is a Unity **Editor toolbox** that collects multiple quality-of-life tools into a single, centralized window.
 
 The aim is simple: instead of scattering small utility scripts across different menus and windows, Meyz’s Toolbag provides **one hub** where you can discover, configure, and use your editor utilities in a consistent way.
